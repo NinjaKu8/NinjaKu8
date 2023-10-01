@@ -1,58 +1,44 @@
-# ThinkCrew
+# Hi, I'm NinjaKu8
 
-Schedule your film or series with cutting-edge tools that help you create, collaborate, and share your shooting schedule wherever you are.
+- 7+ years of experience in running successful projects from inception to completion, specializing in overall operations and program management, continuous process improvement, stakeholder management, program monitoring and reporting, and risk assessment.
+- Thrive in ambiguity, quick learner, and person with high moral standards and integrity.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Tech Stack](#tech-stack)
-- [Contributing](#contributing)
-- [License](#license)
+## Skills
+- TypeScript, React, Vite.js, Redux, React Hooks, Redux Toolkit, Vue.js, TailWindCSS, Python, Django, Node.js, MongoDB, Express.js, Scrum, JIRA, Git, GitHub
 
-## Introduction
-Welcome to ThinkCrew! This project aims to provide a comprehensive platform for scheduling film or series production. It offers a range of tools and features to facilitate efficient collaboration among crew members and streamline the scheduling process. Whether you are a producer, director, or part of the crew, ThinkCrew has got you covered.
+## Experience
+### Full-Stack Developer, Freelancer, Remote
+**Jan 2023–Present**
 
-## Features
-- **Create and Manage Schedules:** Easily create and manage shooting schedules for your film or series.
-- **Collaborate:** Invite crew members to collaborate on the schedule, ensuring everyone is on the same page.
-- **Share and Export:** Share the schedule with your team or export it to various formats for easy distribution.
-- **Notifications and Reminders:** Receive notifications and reminders for important events and updates.
-- **Intuitive UI:** Enjoy a user-friendly interface designed to enhance productivity and ease of use.
+- Engineered a portal for Ralph Lauren using React, boosting user engagement by 20%.
+- Developed a responsive, SEO-optimized site for an engineer using Next.js and an open-source CMS.
+- Pioneered backend solutions with Springboot, emphasizing scalable performance.
 
-## Getting Started
-To get started with ThinkCrew, follow these steps:
+### Senior Software Engineer, Nvidia, Santa Clara, CA
+**May 2020–May 2022**
 
-1. Clone the repository: `git clone https://github.com/your-username/ThinkCrew.git`
-2. Install dependencies: `npm install`
-3. Set up the backend:
-   - Navigate to the `server` directory: `cd server`
-   - Install dependencies: `npm install`
-   - Set up environment variables by renaming `.env.example` to `.env` and updating the values.
-   - Start the server: `npm start`
-4. Set up the frontend:
-   - Navigate to the `client` directory: `cd client`
-   - Install dependencies: `npm install`
-   - Set up environment variables by renaming `.env.example` to `.env` and updating the values.
-   - Start the development server: `npm run dev`
-5. Open your browser and visit `http://localhost:3000` to access ThinkCrew.
+- Streamlined system software releases, slashing release times by 50%.
+- Spearheaded teams to boot software on Next-gen silicon platforms, hastening launch timelines by 6 months.
 
-## Tech Stack
-ThinkCrew is built using the following technologies:
+### Software Engineer, Nvidia, Santa Clara, CA
+**May 2018–May 2020**
 
-- TypeScript
-- React
-- Vite.js
-- Redux
-- React Hooks
-- Redux Toolkit
-- Cloudinary
-- Node.js
-- MongoDB
-- Express.js
-- JIRA
-- Git
-- GitHub
+- Enhanced server utilization by 55% via a novel continuous testing infrastructure.
+- Crafted RESTful API architecture, curbing integration times by 40% and boosting efficiency.
 
-## Contributing
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Let's make ThinkCrew even better together.
+### Software Engineer, Hewlett Packard Enterprise, Bangalore, India
+**Aug. 2014–June 2016**
+
+- Automated database processes, cutting ticket resolution times by 30% and saving 100+ weekly man-hours with a cloud storage app.
+
+## Education
+- Internship - Frontend Developer, Ouva
+  - San Francisco, CA 94114 • Remote
+  - 2015.2 - 7: .5Y & 2016.9 - 2017.2: .5Y
+
+- Bachelor of Computer Science, Leipzig University
+  - Leipzig, Germany
+  - April 2015 – September 2018
+
+## Interests
+Football, Video Entertainment, Reading, Fitness
